@@ -1,4 +1,4 @@
-# Hi there, Bagia 👋
+# Hi there, I'm Bagia 👋
 
 ### Senior Full Stack Developer & System Analyst
 
